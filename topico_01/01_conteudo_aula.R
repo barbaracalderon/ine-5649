@@ -13,7 +13,6 @@ ggplot(data = dados) +
 
 cor(idade, pressao) # cálculo do Coeficiente de correlação linear de Pearson
 
-
 #===== Intervalo de confiança e teste de hipótese para \rho
 # leitura da variável x
 idade <- c(56, 42, 72, 36, 47, 55, 49, 38, 42, 68, 60, 63)
